@@ -7,7 +7,7 @@
 from aqt import mw
 from aqt.qt import *
 
-FONT_SIZE = 12
+FONT_SIZE = 13
 
 def changeGlobalFontSize():
     font = QApplication.font()
